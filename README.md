@@ -1,5 +1,5 @@
 # Rotating-Rage
-Pygame Project - 21 Level rotational maze
+Pygame Project - 5 Worlds -  21 Levels - rotational maze game
 
 Complete the rotating mazes and get to the yellow blob!
 Source code for the game: https://frogtesseract.itch.io/rotating-rage
